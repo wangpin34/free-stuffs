@@ -13,5 +13,8 @@ Free(or not) online stuffs including icon/logo makers, photos, musics, etc. The 
 ## Algorithm
 * [Visual](https://visualgo.net/zh)
 
+## Music
+* [Generative.fm](https://generative.fm/)
+
 ## News
 * [Today juejin](http://zy2071.com/Fun/todayJueJin.html)
