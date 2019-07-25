@@ -12,7 +12,7 @@ Free(or not) online stuffs including icon/logo makers, photos, musics, etc. The 
 
 * [My Brand New Logo](https://mybrandnewlogo.com/)
 
-
+![my brand new logo](https://blog.wangpin.xyz/online-stuffs/assets/images/my-brand-new-log.png)
 
 ## Diagram
 * [Mermaid Live Editor](https://mermaidjs.github.io/mermaid-live-editor)
