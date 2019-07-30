@@ -16,6 +16,7 @@ Free(or not) online stuffs including icon/logo makers, photos, musics, etc. The 
 
 ## Diagram
 * [Mermaid Live Editor](https://mermaidjs.github.io/mermaid-live-editor)
+* [code to flow](https://code2flow.com/app)
 
 ## Markdown editor
 * [wxformat | 微信公众号文章 markdown ](https://lab.lyric.im/wxformat/)
@@ -23,6 +24,9 @@ Free(or not) online stuffs including icon/logo makers, photos, musics, etc. The 
 
 ## Algorithm
 * [Visual](https://visualgo.net/zh)
+
+## Book
+* [51read](https://book.51read.site/)
 
 ## Music
 * [Generative.fm](https://generative.fm/)
