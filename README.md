@@ -29,3 +29,6 @@ Free(or not) online stuffs including icon/logo makers, photos, musics, etc. The 
 
 ## News
 * [Today juejin](http://zy2071.com/Fun/todayJueJin.html)
+
+# Others
+* [miku](https://miku.tools/) 
