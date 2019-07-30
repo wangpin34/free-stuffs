@@ -18,7 +18,8 @@ Free(or not) online stuffs including icon/logo makers, photos, musics, etc. The 
 * [Mermaid Live Editor](https://mermaidjs.github.io/mermaid-live-editor)
 
 ## Markdown editor
-* [weixin editor](https://lab.lyric.im/wxformat/)
+* [wxformat | 微信公众号文章 markdown ](https://lab.lyric.im/wxformat/)
+* [mdnice | 微信公众号文章 markdown](https://mdnice.github.io/)
 
 ## Algorithm
 * [Visual](https://visualgo.net/zh)
