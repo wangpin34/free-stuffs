@@ -14,6 +14,8 @@ Free(or not) online stuffs including icon/logo makers, photos, musics, etc. The 
 
 ![my brand new logo](https://blog.wangpin.xyz/online-stuffs/assets/images/my-brand-new-log.png)
 
+* [app icon maker](https://appiconmaker.co)
+
 ## Diagram
 * [Mermaid Live Editor](https://mermaidjs.github.io/mermaid-live-editor)
 * [code to flow](https://code2flow.com/app)
