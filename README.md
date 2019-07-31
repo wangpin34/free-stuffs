@@ -36,6 +36,9 @@ Free(or not) online stuffs including icon/logo makers, photos, musics, etc. The 
 ## News
 * [Today juejin](http://zy2071.com/Fun/todayJueJin.html)
 
+## Magnet
+* [Magnet link generator](https://magnetlinkgenerator.com/)
+
 # Others
 * [miku](https://miku.tools/) 
 * [码库](https://www.ctolib.com/)
