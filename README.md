@@ -32,6 +32,7 @@ Free(or not) online stuffs including icon/logo makers, photos, musics, etc. The 
 
 ## Music
 * [Generative.fm](https://generative.fm/)
+* [unminus](https://www.unminus.com/)
 
 ## News
 * [Today juejin](http://zy2071.com/Fun/todayJueJin.html)
