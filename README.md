@@ -11,6 +11,7 @@ Free(or not) online stuffs including icon/logo makers, photos, musics, etc. The 
 * [app icon maker](https://appiconmaker.co)
 
 * :heartpulse:[adobe create logo](https://www.adobe.com/express/create/logo)
+* [icon](https://lucide.dev/icons/)
 
 ## Photos
 * [Illustration Gallery](https://gallery.manypixels.co/)
