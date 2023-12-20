@@ -13,6 +13,8 @@ Free(or not) online stuffs including icon/logo makers, photos, musics, etc. The 
 * :heartpulse:[adobe create logo](https://www.adobe.com/express/create/logo)
 * [lucide](https://lucide.dev/icons/)
 * [heroicons](https://heroicons.com/)
+* [app icon generator](https://www.appicon.co/)
+* [maskable app icon](https://maskable.app/editor) [why?](https://web.dev/articles/maskable-icon)
 
 ## Photos
 * [Illustration Gallery](https://gallery.manypixels.co/)
